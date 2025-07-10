@@ -5,14 +5,14 @@
   <parent>
     <groupId>com.wavemaker.app</groupId>
     <artifactId>wavemaker-app-parent</artifactId>
-    <version>11.11.6-20250704010220</version>
+    <version>11.11.6-20250710070254</version>
   </parent>
   <groupId>com.wavemaker.project</groupId>
   <artifactId>GitHub_Check</artifactId>
   <version>1.0</version>
   <packaging>war</packaging>
   <properties>
-    <wavemaker.app.runtime.ui.version>11.11.6-next.28102</wavemaker.app.runtime.ui.version>
+    <wavemaker.app.runtime.ui.version>11.11.6-next.28111</wavemaker.app.runtime.ui.version>
     <wavemaker.artifactType>wmapp</wavemaker.artifactType>
   </properties>
   <build>
