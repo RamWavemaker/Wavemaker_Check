@@ -1,0 +1,71 @@
+{
+  "id" : "85f51e0b-0e8a-4a5c-808e-e0d521ed81d8",
+  "mergeRequestDetails" : {
+    "mergeableRef" : "refs/remotes/origin/Dev",
+    "mergeCommitMessage" : "Merge branch [Dev]",
+    "description" : "Merging branch[Dev]",
+    "type" : "BRANCH_MERGE",
+    "fastForwardEnabled" : false,
+    "finishMergeOnNoConflicts" : false,
+    "pushToVCSOnChanges" : true,
+    "rememberApplyOursPathsEnabled" : false,
+    "rememberedApplyOursPaths" : null
+  },
+  "commitIdMap" : {
+    "PRE_MIGRATED_COMMON_ANCESTOR" : "4d531fb8b973925dd9cb22afd3ab51aafc68ce33",
+    "COMMON_ANCESTOR" : "9267410aba8f9d4d70b215f631d0bb0fa0ad21db",
+    "OURS" : "8ef371085cb8c681c8897e097fc13d1a2d4acfd3",
+    "PRE_MIGRATED_THEIRS" : "4d531fb8b973925dd9cb22afd3ab51aafc68ce33",
+    "THEIRS" : "6a291e92915bf4ff9703dc23057c841c24d76508",
+    "INITIAL_MERGE" : "3d8f90ebc0b280a815e0e2bfe851f5233bf9f093",
+    "LAST_SYNCED_MERGE" : "3d8f90ebc0b280a815e0e2bfe851f5233bf9f093"
+  },
+  "conflictedPaths" : [ ],
+  "initialContentConflictedPaths" : [ ],
+  "initialPathConflictedPaths" : [ ],
+  "autoResolvedPaths" : { },
+  "pathMergeStatusMap" : {
+    "Profile Properties" : {
+      "path" : "Profile Properties",
+      "pathType" : "DIR",
+      "virtual" : true,
+      "branchOutType" : "NO_CHANGES",
+      "branchInType" : "APPLIED_SAME",
+      "latestBranchInType" : "APPLIED_SAME",
+      "objectIdsMap" : {
+        "COMMON_ANCESTOR" : "143a655f85f8c506fd0329768bbb15f7faaa89f9",
+        "OURS" : "143a655f85f8c506fd0329768bbb15f7faaa89f9",
+        "THEIRS" : "143a655f85f8c506fd0329768bbb15f7faaa89f9",
+        "INITIAL_MERGE" : "143a655f85f8c506fd0329768bbb15f7faaa89f9",
+        "LAST_SYNCED_MERGE" : "143a655f85f8c506fd0329768bbb15f7faaa89f9"
+      },
+      "component" : "PROFILE",
+      "conflictedFileParts" : null,
+      "conflictsCount" : 0,
+      "initialConflictsCount" : 0,
+      "description" : null,
+      "mergeActionType" : "EXPLICIT_MERGE_ONLY"
+    },
+    "Themes" : {
+      "path" : "Themes",
+      "pathType" : "DIR",
+      "virtual" : true,
+      "branchOutType" : "NO_CHANGES",
+      "branchInType" : "APPLIED_SAME",
+      "latestBranchInType" : "APPLIED_SAME",
+      "objectIdsMap" : {
+        "COMMON_ANCESTOR" : "408ea27024fcc0e7fb3850e78ce991b76c8e5101",
+        "OURS" : "408ea27024fcc0e7fb3850e78ce991b76c8e5101",
+        "THEIRS" : "408ea27024fcc0e7fb3850e78ce991b76c8e5101",
+        "INITIAL_MERGE" : "408ea27024fcc0e7fb3850e78ce991b76c8e5101",
+        "LAST_SYNCED_MERGE" : "408ea27024fcc0e7fb3850e78ce991b76c8e5101"
+      },
+      "component" : "THEME",
+      "conflictedFileParts" : null,
+      "conflictsCount" : 0,
+      "initialConflictsCount" : 0,
+      "description" : null,
+      "mergeActionType" : "DEFAULT"
+    }
+  }
+}
